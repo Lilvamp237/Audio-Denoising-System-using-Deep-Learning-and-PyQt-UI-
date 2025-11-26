@@ -1,0 +1,26 @@
+QWidget {
+    background-color: #0D1B2A;
+    color: #E0E1DD;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 14px;
+}
+
+QPushButton {
+    background-color: #1B263B;
+    color: #E0E1DD;
+    border: 1px solid #3A86FF;
+    padding: 8px 16px;
+    border-radius: 6px;
+}
+
+QPushButton:hover {
+    background-color: #324A66;
+}
+
+QLabel {
+    color: #A9BCD0;
+}
+
+QStatusBar, QLabel#status_label {
+    color: #38B000;
+}
